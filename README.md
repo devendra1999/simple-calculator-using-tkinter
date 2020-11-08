@@ -1,2 +1,3 @@
 # simple-calculator-using-tkinter
-learning tkinter
+# language Python 
+learning tkinter GUI
